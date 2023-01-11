@@ -11,8 +11,8 @@
 
 int main() {
 
-	static int captionX = 10, captionY = 5;
-	static int bX = 50, bY = 5;
+	int captionX = 10, captionY = 5;
+	int bX = 50, bY = 5;
 	int bSizeX = 0, bSizeY = 0;
 	int x = bX, y = bY;
 	int zn = 0, zero = 0;					
